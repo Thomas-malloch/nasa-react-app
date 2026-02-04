@@ -27,6 +27,7 @@
 .imgContainer{
   display: flex;
   flex-direction: column;
+  width: 100%;
 }
 
 .bgimage {
@@ -51,6 +52,7 @@ footer {
 footer div {
   display: flex; 
   flex-direction: column;
+  gap: 0.5rem;
 }
 
 footer h1{
